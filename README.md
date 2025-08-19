@@ -10,7 +10,7 @@ Power BI – Interactive dashboards and drill-down insights
 
 Tableau – Advanced data visualizations and filtering capabilities
 
-Files Used
+📁  Files Used
 
 Bank_Loan_Dashboard.xlsx – Excel dashboard
 
