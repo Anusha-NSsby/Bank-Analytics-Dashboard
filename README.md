@@ -1,4 +1,4 @@
-# Bank-Analytics-Dashboard
+# Bank Loan Analysiss-Dashboard
 
 This project demonstrates a complete data analysis and visualization of bank loan records using Excel, Power BI, and Tableau, emphasizing key performance indicators (KPIs), patterns, and trends to uncover meaningful business insights from the dataset.
 
